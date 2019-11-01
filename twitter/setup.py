@@ -9,7 +9,7 @@ setup(name='twitter',
       packages=find_packages(),
       install_requires=[
         'emoji==0.5.1',
-        'nltk==3.4',
+        'nltk==3.4.5',
         'matplotlib==2.1.2',
         'tweepy==3.7.0',
         'pandas==0.22.0',

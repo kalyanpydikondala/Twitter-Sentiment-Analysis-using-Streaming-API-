@@ -13,7 +13,7 @@ setup(name='twitter',
         'matplotlib==2.1.2',
         'tweepy==3.7.0',
         'pandas==0.22.0',
-        'numpy==1.14.0',
+        'numpy==1.22.0',
         'wordcloud==1.5.0',
       ],
       zip_safe=True)
